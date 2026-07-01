@@ -1,3 +1,4 @@
+// fix: forzar rebuild con Vite
 import { Routes, Route, Navigate } from 'react-router-dom'
 import PrivateRoute from './components/layout/PrivateRoute.jsx'
 import Header from './components/layout/Header.jsx'
